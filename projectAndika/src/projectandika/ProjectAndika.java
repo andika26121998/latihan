@@ -15,7 +15,7 @@ public class ProjectAndika {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here by andikaa ganteng pisan
+        // TODO code application logic here by andikaa ganteng pisan edan uy
     }
     
 }
